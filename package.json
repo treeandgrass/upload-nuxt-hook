@@ -1,0 +1,19 @@
+{
+  "name": "upload-nuxt-hook",
+  "version": "1.0.0",
+  "description": "a nuxt hook use to upload file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/treeandgrass/upload-nuxt-hook.git"
+  },
+  "author": "mikeyway",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/treeandgrass/upload-nuxt-hook/issues"
+  },
+  "homepage": "https://github.com/treeandgrass/upload-nuxt-hook#readme"
+}
