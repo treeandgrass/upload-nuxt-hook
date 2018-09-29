@@ -1,6 +1,6 @@
 {
   "name": "upload-nuxt-hook",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a nuxt hook use to upload file",
   "main": "index.js",
   "scripts": {
