@@ -1,1 +1,2 @@
-module.exports = require('./lib/lib.js')
+const UploadPlugin = require('./lib/lib.js')
+module.exports = UploadPlugin
